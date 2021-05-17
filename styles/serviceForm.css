@@ -1,0 +1,22 @@
+.field {
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    padding-top: 10px;
+    
+  }
+  
+  .label {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 150%;
+  }
+  
+  .input {
+    width: 100%;
+  }
+  
+  .button {
+    background-color: rgb(8, 21, 65);
+    color: white;
+    margin-top: 5px;
+  }
